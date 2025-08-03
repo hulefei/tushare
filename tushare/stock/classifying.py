@@ -13,7 +13,7 @@ from tushare.stock import cons as ct
 from tushare.stock import ref_vars as rv
 import json
 import re
-from pandas.util.testing import _network_error_classes
+# from pandas.util.testing import _network_error_classes
 import time
 import tushare.stock.fundamental as fd
 from tushare.util.netbase import Client
